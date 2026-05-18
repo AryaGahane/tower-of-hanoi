@@ -23,7 +23,6 @@ A colorful and interactive C++ implementation of the classic Tower of Hanoi puzz
 - Algorithm Design
 - Console Animation
 
----
 
 ## How It Works
 The program solves the Tower of Hanoi puzzle by recursively moving disks between three rods:
@@ -38,16 +37,10 @@ The program solves the Tower of Hanoi puzzle by recursively moving disks between
 
 The simulation visually displays every move step-by-step.
 
----
-
-## Example Menu
-
-```bash
-===== MENU =====
+## Menu
 1. Start Simulation
 2. Show Expected Moves
 3. Exit
-```bash
 
 ## Technologies Used
 1. C++
